@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_button_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_volume_down.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_volume_down.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\back_button_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_tv_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_tv_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\battery_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_media_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_media_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar_n.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seek_bar_n.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_bluetooth_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_bluetooth_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_screen_left.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_screen_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_keboard_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_keboard_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_bg.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seekbar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\battery_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_devinfo_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_devinfo_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_battery_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_battery_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_media_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_media_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_button_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\ok_button_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\language_name_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\language_name_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_device_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_device_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_bluetooth_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_bluetooth_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_adjust_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_adjust_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_device_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_device_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\item_txt_color.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\item_txt_color.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\prve_button_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\prve_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ok_button_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\ok_button_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_adjust_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_adjust_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\language_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\language_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\language_img.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\language_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\item_selector_bg.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\item_selector_bg.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_wifi_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_wifi_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_screen_right.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_screen_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_color_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_color_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_sound_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_sound_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_volume_up.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_volume_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\next_button_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\next_button_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\rotation_img.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\rotation_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar_select.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seek_bar_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\list_txt_color.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\list_txt_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_pc_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_pc_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\back_button_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar_select.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seek_bar_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_screen_left.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_screen_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_screen_right.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_screen_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_reset_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_reset_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar_n.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seek_bar_n.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_language_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_language_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_pc_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_pc_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seek_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_volume_up.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_volume_up.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_upgrade_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_upgrade_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_wifi_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_wifi_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_button_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_button_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_volume_down.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_volume_down.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_dialog.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_reset_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_reset_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\list_txt_color.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\list_txt_color.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_battery_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_battery_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_sdcard_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_sdcard_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_brightness_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_brightness_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\mirroring_img.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\mirroring_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_tv_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_tv_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\item_txt_color.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\item_txt_color.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\next_button_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\next_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\rotation_img.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\rotation_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_bar.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seek_bar.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\item_selector_bg.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\item_selector_bg.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\language_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\language_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_bg.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\seekbar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_devinfo_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_devinfo_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_upgrade_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_upgrade_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\btn_dialog.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bluetooth_keboard_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\bluetooth_keboard_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\language_name_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\language_name_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_sound_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_sound_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\language_img.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\language_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_language_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_language_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\mirroring_img.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\mirroring_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_brightness_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_brightness_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_sdcard_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_sdcard_selector.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\home_color_selector.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\home_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable\\prve_button_selector.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable\\prve_button_selector.xml"
+    }
+]

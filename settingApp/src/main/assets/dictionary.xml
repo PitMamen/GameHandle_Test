@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<result>
+<item>
+	<status>-2</status>
+	<content>
+		<value lang="ko">네트워크,또는 서버 오류!</value>
+		<value lang="zh_TW">網路或服務器錯誤</value>
+		<value lang="en">Network or server error!</value>
+		<value lang="ja">ネットワーク/サーバエラー!</value>
+		<value lang="zh_CN">网络或服务器错误</value>
+	</content>
+</item>
+<item>
+	<status>-1</status>
+	<content>
+		<value lang="ko">시스템 오류!</value>
+		<value lang="zh_TW">系統錯誤</value>
+		<value lang="en">System error!</value>
+		<value lang="ja">システムエラー!</value>
+		<value lang="zh_CN">系统错误</value>
+	</content>
+</item>
+<item>
+	<status>0</status>
+	<content>
+		<value lang="ko">성공</value>
+		<value lang="zh_TW">成功</value>
+		<value lang="en">Succeeded!</value>
+		<value lang="ja">成功</value>
+		<value lang="zh_CN">成功</value>
+	</content>
+</item>
+<item>
+	<status>1</status>
+	<content>
+		<value lang="ko">계신 지역은 사용 제한되었습니다.</value>
+		<value lang="zh_TW">您所在的區域限制使用</value>
+		<value lang="en">The app is restricted in your region.</value>
+		<value lang="ja">お住まいの地域の使用は制限される.</value>
+		<value lang="zh_CN">您所在区域限制使用</value>
+	</content>
+</item>
+<item>
+	<status>2</status>
+	<content>
+		<value lang="ko">사용하시는 어플은 제한되었습니다. </value>
+		<value lang="zh_TW">您所使用的應用受限</value>
+		<value lang="en">The app has been restricted.</value>
+		<value lang="ja">使用しているアプリは制限される.</value>
+		<value lang="zh_CN">您所使用的应用受限</value>
+	</content>
+</item>
+<item>
+	<status>3</status>
+	<content>
+		<value lang="ko">고개님은 블랙리스트에 추가되었습니다.</value>
+		<value lang="zh_TW">您已被加入黑名單</value>
+		<value lang="en">Sorry, you've been blacklisted.</value>
+		<value lang="ja">あなたはブラックリストに追加されました.</value>
+		<value lang="zh_CN">您已被加入黑名单</value>
+	</content>
+</item>
+<item>
+	<status>4</status>
+	<content>
+		<value lang="ko">아이디,또는 비밀번호 오류.</value>
+		<value lang="zh_TW">用戶名或密碼錯誤</value>
+		<value lang="en">Incorrect username or password.</value>
+		<value lang="ja">ユーザー名/パスワードエラー.</value>
+		<value lang="zh_CN">用户名或密码错误</value>
+	</content>
+</item>
+<item>
+	<status>5</status>
+	<content>
+		<value lang="ko">고객님은 다른곳에서 이미 등록하였습니다.</value>
+		<value lang="zh_TW">您已在其它地方登錄</value>
+		<value lang="en">You've logged in from somewhere else.</value>
+		<value lang="ja">あなたは別の場所に登録している.</value>
+		<value lang="zh_CN">您已在其它地方登录</value>
+	</content>
+</item>
+<item>
+	<status>6</status>
+	<content>
+		<value lang="ko">오류코드:001</value>
+		<value lang="zh_TW">錯誤代碼:001</value>
+		<value lang="en">Error code: 001</value>
+		<value lang="ja">エラーコード：001</value>
+		<value lang="zh_CN">错误代码:001</value>
+	</content>
+</item>
+<item>
+	<status>7</status>
+	<content>
+		<value lang="ko">오류코드:002</value>
+		<value lang="zh_TW">錯誤代碼:002</value>
+		<value lang="en">Error code: 002</value>
+		<value lang="ja">エラーコード：002</value>
+		<value lang="zh_CN">错误代码:002</value>
+	</content>
+</item>
+<item>
+	<status>8</status>
+	<content>
+		<value lang="ko">고객님은 이미 시용을 신청하였습니다.</value>
+		<value lang="zh_TW">您已經申請過試用</value>
+		<value lang="en">You've applied for trial already.</value>
+		<value lang="ja">あなたは試用を申請した.</value>
+		<value lang="zh_CN">您已经申请过试用</value>
+	</content>
+</item>
+<item>
+	<status>9</status>
+	<content>
+		<value lang="ko">어플 시용 기간이 만료되었습니다.</value>
+		<value lang="zh_TW">試用已到期</value>
+		<value lang="en">Trial period expired.</value>
+		<value lang="ja">アプリ試用期限切れ.</value>
+		<value lang="zh_CN">试用已到期</value>
+	</content>
+</item>
+<item>
+	<status>10</status>
+	<content>
+		<value lang="ko">무효 인증코드입니다.</value>
+		<value lang="zh_TW">無效授權碼</value>
+		<value lang="en">Invalid auth code.</value>
+		<value lang="ja">無効のライセンスコード.</value>
+		<value lang="zh_CN">无效授权码</value>
+	</content>
+</item>
+<item>
+	<status>11</status>
+	<content>
+		<value lang="ko">계정 잔액은 부족합니다.</value>
+		<value lang="zh_TW">帳戶餘額不足</value>
+		<value lang="en">Insufficient balance.</value>
+		<value lang="ja">口座残高不足.</value>
+		<value lang="zh_CN">账户余额不足</value>
+	</content>
+</item>
+<item>
+	<status>12</status>
+	<content>
+		<value lang="ko">오류코드:003</value>
+		<value lang="zh_TW">錯誤代碼:003</value>
+		<value lang="en">Error code: 003</value>
+		<value lang="ja">エラーコード：003</value>
+		<value lang="zh_CN">错误代码:003</value>
+	</content>
+</item>
+</result>

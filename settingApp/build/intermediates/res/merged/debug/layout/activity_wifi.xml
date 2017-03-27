@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:background="@color/theme_background">
+ 	
+    <com.app.settingApp.view.ControlView 
+        android:id="@+id/control_view"
+        android:layout_width="0dp"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+        android:focusable="false">
+    </com.app.settingApp.view.ControlView>
+    
+    <LinearLayout style="@style/main_side">
+	    
+        <RelativeLayout 
+			android:id="@+id/wifi_control_layout"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/item_selector_bg"> 
+			
+            <ImageView 
+		        android:id="@+id/wifi_icon"	
+		        android:layout_width="wrap_content"
+		  		android:layout_height="wrap_content"
+		  		android:layout_marginLeft="12dp"
+			   	android:layout_centerVertical="true"
+			   	android:src="@drawable/setting_title_ic_wifi"/>
+            
+	        <TextView
+	            android:id="@+id/wifi_name"
+		        style="@style/item_txt"
+		        android:text="@string/wifi"
+		       	android:layout_toRightOf="@id/wifi_icon"
+		        android:duplicateParentState="true"/>
+	        
+			<com.app.settingApp.view.LoadingView
+			   	android:id="@+id/wifi_search_icon"
+			   	android:layout_width="wrap_content"
+			   	android:layout_height="wrap_content"
+			   	android:layout_toRightOf="@id/wifi_name"
+			   	android:gravity="center_vertical"
+			   	android:layout_centerVertical="true"
+			   	android:src="@drawable/loading"/>               
+			
+			 <CheckBox android:id="@+id/wifi_switch" 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentRight="true"
+	            android:layout_centerVertical="true"
+	            android:layout_marginLeft="15dp"
+	            android:button="@drawable/battery_selector"/>
+				
+		</RelativeLayout>
+	
+    	<ListView
+			android:id="@+id/wifi_listview"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="1dp"/>
+		
+		<LinearLayout 
+			android:id="@+id/wifi_null_layout"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"  
+			android:layout_centerVertical="true"
+        	android:orientation="vertical"
+        	android:gravity="center_vertical|center_horizontal"
+			android:visibility="gone">
+	           
+			<ImageView 
+		        android:id="@+id/wifi_image"	
+		        android:layout_width="wrap_content"
+		  		android:layout_height="wrap_content"
+			   	android:background="@drawable/setting_ic_contents_wifi"/>
+	                       
+			<TextView
+		        android:id="@+id/no_wifi_msg"
+		       	android:layout_width="match_parent"
+		  		android:layout_height="wrap_content"   
+		  		android:gravity="center"/>
+			
+		</LinearLayout>
+		
+    </LinearLayout>
+
+</LinearLayout>

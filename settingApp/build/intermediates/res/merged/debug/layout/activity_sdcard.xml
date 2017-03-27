@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:background="@color/theme_background">
+    
+    <com.app.settingApp.view.ControlView 
+        android:id="@+id/control_view"
+        android:layout_width="0dp"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+        android:focusable="false">
+    </com.app.settingApp.view.ControlView>
+	
+	<LinearLayout style="@style/main_side">
+	    
+	    <TextView android:id="@+id/sd_mount"
+	        style="@style/item_txt"
+	        android:text="@string/sd_pull_out_title"
+	        android:background="@drawable/item_selector_bg"/>
+	    
+	    <!-- <TextView android:id="@+id/sd_format"
+	        style="@style/item_txt"
+	        android:text="@string/sd_format_title"
+	        android:background="@drawable/item_selector_bg"/> -->
+	    
+	    <TextView style="@style/item_txt"
+	        android:text="@string/sd_use_info"
+	        android:clickable="true"
+	        android:background="@drawable/item_selector_bg"/>
+	    
+	        <TextView android:id="@+id/sd_available_memory"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:paddingTop="40dp"
+	            android:paddingBottom="10dp"
+	            android:textSize="20sp"
+	            android:text="444"
+	            android:gravity="center_horizontal"
+	        	android:background="@color/theme_item_gray"/>
+	    
+	    <LinearLayout android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:background="@color/theme_item_gray">
+	        
+	        <LinearLayout android:id="@+id/memory_size"
+	            android:layout_width="0dp"
+	            android:layout_weight="3"
+	            android:layout_height="@dimen/sdcard_view"
+	            android:layout_marginLeft="15dp"
+	            android:orientation="horizontal">
+	            
+	            <View  android:id="@+id/apps_size"
+	                android:layout_width="wrap_content"
+	                android:layout_height="@dimen/sdcard_view"
+		            android:background="@drawable/setting_sdcard_bar_apps"/>
+	            <View  android:id="@+id/videos_size"
+	                android:layout_width="wrap_content"
+	                android:layout_height="@dimen/sdcard_view"
+		            android:background="@drawable/setting_sdcard_bar_videos"/>
+	            <View  android:id="@+id/etc_size"
+	                android:layout_width="wrap_content"
+	                android:layout_height="@dimen/sdcard_view"
+		            android:background="@drawable/setting_sdcard_bar_etc"/>
+	            <View  android:id="@+id/available_size"
+	                android:layout_width="wrap_content"
+	                android:layout_height="@dimen/sdcard_view"
+		            android:background="@drawable/setting_sdcard_bar_available"/>
+	            
+	        </LinearLayout>
+	        
+	        
+	        <TextView android:id="@+id/sd_total_memory"
+	            android:layout_width="0dp"
+	            android:layout_weight="1.5"
+	            android:layout_height="wrap_content"
+	            android:textSize="20sp"
+	            android:layout_marginLeft="15dp"/>
+	    </LinearLayout>
+	    <LinearLayout android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:paddingTop="40dp"
+	        android:paddingBottom="40dp"
+	        android:background="@color/theme_item_gray">
+	        
+	        <View android:layout_width="@dimen/sdcard_view"
+	            android:layout_height="@dimen/sdcard_view"
+	            android:layout_marginLeft="35dp"
+	            android:layout_gravity="center_vertical"
+	            android:background="@drawable/setting_sdcard_circle1"/>
+	        
+	        <TextView android:id="@+id/sd_apps_memory"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textSize="20sp"
+	            android:layout_marginLeft="15dp"/>
+	        
+	        <View android:layout_width="@dimen/sdcard_view"
+	            android:layout_height="@dimen/sdcard_view"
+	            android:layout_marginLeft="35dp"
+	            android:layout_gravity="center_vertical"
+	            android:background="@drawable/setting_sdcard_circle2"/>
+	        
+	        <TextView android:id="@+id/sd_videos_memory"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textSize="20sp"
+	            android:layout_marginLeft="15dp"/>
+	        
+	        <View android:layout_width="@dimen/sdcard_view"
+	            android:layout_height="@dimen/sdcard_view"
+	            android:layout_marginLeft="35dp"
+	            android:layout_gravity="center_vertical"
+	            android:background="@drawable/setting_sdcard_circle3"/>
+	        
+	        <TextView android:id="@+id/sd_etc_memory"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:textSize="20sp"
+	            android:layout_marginLeft="15dp"/>
+	        
+	    </LinearLayout>
+	</LinearLayout>
+    
+</LinearLayout>

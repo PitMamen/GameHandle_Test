@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:background="@color/theme_background">
+    
+    <com.app.settingApp.view.ControlView 
+        android:id="@+id/control_view"
+        android:layout_width="0dp"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+        android:focusable="false">
+    </com.app.settingApp.view.ControlView>
+    
+    <LinearLayout android:layout_width="0dp"
+	    android:layout_height="match_parent"
+	    android:layout_weight="4"
+	    android:orientation="vertical"
+	    android:layout_marginTop="40dp"
+	    android:layout_marginBottom="40dp"
+	    android:layout_marginRight="30dp"
+	    android:gravity="center_horizontal"
+	    android:background="@color/theme_menu_background">
+	    
+        <TextView android:id="@+id/txt_vol" 
+            android:layout_width="wrap_content"
+		    android:layout_height="0dp"
+		    android:layout_weight="0.7"
+		    android:textColor="@color/theme_text"
+		    android:gravity="bottom"
+		    android:textSize="60sp"/>
+        
+        <LinearLayout android:layout_width="wrap_content"
+		    android:layout_height="0dp"
+		    android:layout_weight="1"
+		    android:layout_marginTop="15dp"
+		    android:orientation="horizontal">
+            
+            <Button android:id="@+id/btn_volume_down"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:focusable="false"
+                android:background="@drawable/btn_volume_down"/>
+            
+            <SeekBar android:id="@+id/seekbar_volume"
+                android:layout_width="500dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+		        android:maxHeight="30dip"  
+		        android:minHeight="30dip"  
+		        android:progressDrawable="@drawable/seek_bar"  
+		        android:thumb="@drawable/setting_sound_handle"/>
+            
+            <Button android:id="@+id/btn_volume_up"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:focusable="false"
+                android:background="@drawable/btn_volume_up"/>
+        </LinearLayout>
+        
+    </LinearLayout>
+    
+</LinearLayout>

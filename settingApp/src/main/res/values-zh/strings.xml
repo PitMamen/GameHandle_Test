@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="device_name_list">
+        <item> 型号</item>
+        <item>设备序列号</item>
+        <item>总运行时间</item>
+        <item>MAC</item>
+        <item>Android版本</item>
+        <item>软件版本</item>
+        <item>SKT使用条款</item>
+        <item>版权</item>
+        <item>打开许可证法律信息</item>
+        <item>隐私法</item>
+    </string-array>
+    
+    <string name="device_name">设备名称</string>
+    <string name="change_device_name">更改设备名称</string>
+    
+    <string name="language_selection">语言选择</string>
+    <string name="keyboard_setting">键盘设置</string>
+    
+    <string-array name="languages">
+        <item>韩语</item>
+        <item>英语</item>
+        <item>中文</item>
+        <item>日语</item>
+    </string-array>
+
+</resources>

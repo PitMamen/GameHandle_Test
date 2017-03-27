@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setting_reset.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_setting_reset.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_keyboard.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_keyboard.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_keyboard.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_wifi_detail.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_wifi_detail.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_setting_reset.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_setting_reset.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_bluetooth_detail.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_bluetooth_detail.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_languagekeyboard.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_languagekeyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_adjust.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_screen_adjust.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_colortemperature.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_colortemperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_languagekeyboard.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_languagekeyboard.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_language.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_reset.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_setting_reset.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_wifi.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_device_options.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\bluetooth_device_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_brightness.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_brightness.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firmware_upgrade.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_firmware_upgrade.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_volume.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_volume.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_volume.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_volume.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_password_input.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_password_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sdcard.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_sdcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wifi.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_deviceinfo.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_deviceinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_deletewifi.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_deletewifi.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_wifi_detail.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_wifi_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_bluetooth_connect.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_bluetooth_connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_language.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_language.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_language.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_language.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firmware_upgrade.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_firmware_upgrade.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_device_name.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_device_name.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_reset.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_setting_reset.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_deviceinfo.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_deviceinfo.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sdcard.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_sdcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_password_input.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_password_input.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bluetooth.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\layout_control.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\layout_control.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_bluetooth_connect.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_bluetooth_connect.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_colortemperature.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_colortemperature.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_adjust.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_screen_adjust.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bluetooth.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_colortemperature.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_colortemperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_device.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_battery.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_battery.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_colortemperature.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_colortemperature.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_device.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_device_name.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sdcard.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_sdcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_bluetooth_detail.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_bluetooth_detail.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_home.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_deletewifi.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_deletewifi.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_brightness.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_brightness.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_home.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\layout_control.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\layout_control.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_sdcard.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\dialog_sdcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_device_options.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\bluetooth_device_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\item_language.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\item_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\layout\\activity_battery.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\layout\\activity_battery.xml"
+    }
+]

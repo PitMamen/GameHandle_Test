@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_name_list">
+        <item>모델번호</item>
+        <item>단말기 고유번호</item>
+        <item>가동 총시간</item>
+        <item>MAC</item>
+        <item>안드로이드 버전</item>
+        <item>소프트웨어 버전</item>
+        <item>SKT 이용 약관</item>
+        <item>저작권</item>
+        <item>오픈라이선스 법률 정보</item>
+        <item>개인정보 취급 방법</item>
+    </string-array>
+    <string-array name="languages">
+        <item>한국어</item>
+        <item>영어</item>
+        <item>중국어</item>
+        <item>일본어</item>
+    </string-array>
+    <string name="change_device_name">기기 이름 변경</string>
+    <string name="device_name">기기이름</string>
+    <string name="keyboard_setting">키보드 설정</string>
+    <string name="language_selection">언어 선택</string>
+</resources>

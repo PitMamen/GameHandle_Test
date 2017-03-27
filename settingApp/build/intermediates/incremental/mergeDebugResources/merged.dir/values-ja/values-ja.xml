@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_name_list">
+        <item>モデル番号</item>
+        <item>端末固有番号</item>
+        <item>稼働時間の合計</item>
+        <item>MAC</item>
+        <item>Androidのバージョン</item>
+        <item>ソフトウェアのバージョン</item>
+        <item>SKT利用規約</item>
+        <item>著作権</item>
+        <item>オープンライセンスの法律情報</item>
+        <item>個人情報の取り扱い方法</item>
+    </string-array>
+    <string-array name="languages">
+        <item>韓国語</item>
+        <item>英語</item>
+        <item>中國語</item>
+        <item>日本語</item>
+    </string-array>
+    <string name="change_device_name">機器の名前を変更</string>
+    <string name="device_name">機器名</string>
+    <string name="keyboard_setting">キーボードの設定</string>
+    <string name="language_selection">言語を選択</string>
+</resources>

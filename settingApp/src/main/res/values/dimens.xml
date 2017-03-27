@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="dialog_btn_size">30dip</dimen>
+  <dimen name="title_text_size">24dip</dimen>
+  <dimen name="caption_text_size">12dip</dimen>
+  <dimen name="secrued_text_size">18dip</dimen>
+  <dimen name="value_size">60sp</dimen>
+  <dimen name="module_text_size">25sp</dimen>
+  
+  <dimen name="sdcard_view">20dp</dimen>
+  
+  <dimen name="battery_radius">160dp</dimen>
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:background="@color/theme_background">
+ 	
+    <com.app.settingApp.view.ControlView 
+        android:id="@+id/control_view"
+        android:layout_width="0dp"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+        android:focusable="false">
+    </com.app.settingApp.view.ControlView>
+    
+    <LinearLayout style="@style/main_side">
+	    
+        <RelativeLayout 
+			android:id="@+id/bluetooth_control_layout"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/item_selector_bg"> 
+			
+            <ImageView 
+		        android:id="@+id/bluetooth_icon"	
+		        android:layout_width="wrap_content"
+		  		android:layout_height="wrap_content"
+			   	android:layout_marginLeft="12dp"
+			   	android:layout_centerVertical="true"
+			   	android:background="@drawable/setting_title_ic_bluetooth"/>
+            
+	        <TextView
+	            android:id="@+id/bluetooth_name"
+		        style="@style/item_txt"
+		        android:text="@string/bluetooth"
+		       	android:layout_width="wrap_content"
+		       	android:layout_toRightOf="@id/bluetooth_icon"
+		        android:duplicateParentState="true"
+		        android:maxWidth="500dp"
+		        android:singleLine="true"
+				android:ellipsize="marquee"/>
+	        
+			<com.app.settingApp.view.LoadingView
+			   	android:id="@+id/bluetooth_search_icon"
+			   	android:layout_width="wrap_content"
+			   	android:layout_height="wrap_content"
+			   	android:layout_toRightOf="@id/bluetooth_name"
+			   	android:gravity="center_vertical"
+			   	android:src="@drawable/loading"
+			   	android:layout_centerVertical="true"/>               
+			
+			<CheckBox android:id="@+id/bluetooth_switch" 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_centerVertical="true"
+	            android:layout_alignParentRight="true"
+	            android:layout_marginRight="15dp"
+	            android:duplicateParentState="true"
+	            android:button="@drawable/battery_selector"/>
+				
+		</RelativeLayout>
+	
+    	<ListView
+			android:id="@+id/bluetooth_listview"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="1dp"/>
+		
+		<LinearLayout 
+			android:id="@+id/bluetooth_null_layout"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"  
+			android:layout_centerVertical="true"
+        	android:orientation="vertical"
+        	android:gravity="center_vertical|center_horizontal"
+			android:visibility="gone">
+	           
+			<ImageView 
+		        android:id="@+id/bluetooth_image"	
+		        android:layout_width="wrap_content"
+		  		android:layout_height="wrap_content"
+			   	android:background="@drawable/setting_ic_contents_bluetooth"/>
+	                       
+			<TextView
+		        android:id="@+id/no_bluetooth_msg"
+		       	android:layout_width="match_parent"
+		  		android:layout_height="wrap_content"   
+		  		android:gravity="center"/>
+			
+		</LinearLayout>
+		
+    </LinearLayout>
+
+</LinearLayout>

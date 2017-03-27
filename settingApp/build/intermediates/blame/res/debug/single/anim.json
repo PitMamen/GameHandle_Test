@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\anim\\my_scale_big_action.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\anim\\my_scale_big_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\anim\\my_scale_small_action.xml",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\anim\\my_scale_small_action.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\anim\\my_scale_big_action.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\anim\\my_scale_big_action.xml"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\anim\\my_scale_small_action.xml",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\anim\\my_scale_small_action.xml"
+    }
+]

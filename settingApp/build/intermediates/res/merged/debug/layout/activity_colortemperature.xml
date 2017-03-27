@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+ 	
+    <com.app.settingApp.view.ControlView 
+        android:id="@+id/control_view"
+        android:layout_width="0dp"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+        android:focusable="false">
+    </com.app.settingApp.view.ControlView>
+    
+    <LinearLayout style="@style/main_side">
+    
+    	<ListView android:id="@+id/list"
+	        android:layout_width="match_parent"
+	    	android:layout_height="wrap_content"
+	        android:divider="#3F474A"   
+	        android:listSelector="@color/transparent"
+			android:dividerHeight="2px"/>
+    </LinearLayout>
+
+</LinearLayout>

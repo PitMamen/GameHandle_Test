@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_temperatures">
+        <item>Cinema mode</item>
+        <item>Concert mode</item>
+        <item>Sports mode</item>
+        <item>Musium mode</item>
+    </string-array>
+    <string-array name="device_name_list">
+        <item>Model number</item>
+        <item>Device serial number</item>
+        <item>Total operation time</item>
+        <item>MAC</item>
+        <item>Android version</item>
+        <item>Softeware version</item>
+        <item>SKT agreement of utilization</item>
+        <item>copyright</item>
+        <item>Open license legal information</item>
+        <item>How to handle the personal information</item>
+    </string-array>
+    <string-array name="languages">
+        <item>Korean</item>
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Japenese</item>
+    </string-array>
+    <color name="item_gray">#7d7d7d</color>
+    <color name="item_gray_white">#a8a8a8</color>
+    <color name="list_normal">#c8c8c8</color>
+    <color name="list_select">#19afe5</color>
+    <color name="textLight">#555</color>
+    <color name="textwhite">#ddf6fe</color>
+    <color name="theme_background">#262D33</color>
+    <color name="theme_item_focus">#19AFE4</color>
+    <color name="theme_item_gray">#484D51</color>
+    <color name="theme_item_normal">#484D51</color>
+    <color name="theme_item_press">#095A6D</color>
+    <color name="theme_menu_background">#31393C</color>
+    <color name="theme_text">#fff</color>
+    <color name="transparent">#00000000</color>
+    <declare-styleable name="RoundProgressBar"><attr format="color" name="roundColor"/><attr format="color" name="roundProgressColor"/><attr format="dimension" name="roundWidth"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="integer" name="max"/><attr format="boolean" name="textIsDisplayable"/><attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="RoundedImageView"><attr format="dimension" name="corner_radius"/><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="mutate_background"/><attr format="boolean" name="oval"/><attr name="android:scaleType"/></declare-styleable>
+    <declare-styleable name="ScreenControlView"><attr format="dimension" name="circle_diameter"/><attr format="dimension" name="circle_space"/><attr format="reference" name="focus_drawable"/><attr format="reference" name="other_drawable"/></declare-styleable>
+    <dimen name="battery_radius">160dp</dimen>
+    <dimen name="caption_text_size">12dip</dimen>
+    <dimen name="dialog_btn_size">30dip</dimen>
+    <dimen name="module_text_size">25sp</dimen>
+    <dimen name="sdcard_view">20dp</dimen>
+    <dimen name="secrued_text_size">18dip</dimen>
+    <dimen name="title_text_size">24dip</dimen>
+    <dimen name="value_size">60sp</dimen>
+    <string name="auto_adjust">Auto Display Adjustment</string>
+    <string name="back">뒤로</string>
+    <string name="battery">battery %</string>
+    <string name="battery_info">On the battery saving mode, If the smartbeam has no adapter power or has the long idle times, It enters into the standby mode.  </string>
+    <string name="battery_item">Battery saving mode</string>
+    <string name="battery_title">Battery \n%d%</string>
+    <string name="bluetooth">bluetooth</string>
+    <string name="bluetooth_need_open">please open bluetooth</string>
+    <string name="bluetooth_scan_null">no useable bluetooth</string>
+    <string name="brightness">brightness</string>
+    <string name="calibration">calibration</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_device_name">Change device name</string>
+    <string name="color_temperature">ColorTemperature</string>
+    <string name="connect">Connect</string>
+    <string name="connected">已连接</string>
+    <string name="connecting">正在连接...</string>
+    <string name="delete">忘记</string>
+    <string name="delete_wifi">确定删除该热点？</string>
+    <string name="device_name">Device name</string>
+    <string name="deviceinfo">deviceinfo</string>
+    <string name="dialog_device_cancel">Cancel</string>
+    <string name="dialog_device_ok">OK</string>
+    <string name="disconnecting">正在断开连接...</string>
+    <string name="down">하</string>
+    <string name="firmware">firmware</string>
+    <string name="firmware_dialog_info">Do you want to update? The power is automatically reset after the update is complete. (* Power of the equipment being updated There is a possibility that the abnormal to the equipment being off occur. Please update after the power of the connection.)</string>
+    <string name="firmware_new">NEW</string>
+    <string name="firmware_upgrade">Firmware update</string>
+    <string name="initialization">initialization</string>
+    <string name="key_control">Keystone display control</string>
+    <string name="keyboard_setting">Keyboard setting</string>
+    <string name="language">language</string>
+    <string name="language_selection">Language selection</string>
+    <string name="none">None</string>
+    <string name="ok">진입</string>
+    <string name="option_connect">Connect</string>
+    <string name="option_disconnect">Disconnect</string>
+    <string name="option_unpair">Unpair</string>
+    <string name="paired">已匹配</string>
+    <string name="pairing">正在匹配...</string>
+    <string name="password">Password</string>
+    <string name="progress_title">Waitting...</string>
+    <string name="progress_txt1">SD card video playback</string>
+    <string name="progress_txt2">playback of network connection</string>
+    <string name="sd_cancel">CANCEL</string>
+    <string name="sd_format">FORMAT</string>
+    <string name="sd_format_info">SD Will Format</string>
+    <string name="sd_format_title">SD Format</string>
+    <string name="sd_format_toast">Detection of SD card format.</string>
+    <string name="sd_insert">INSERT</string>
+    <string name="sd_insert_info">SD Will Insert</string>
+    <string name="sd_insert_title">SD Insert</string>
+    <string name="sd_insert_toast">Detection of SD card insertion.</string>
+    <string name="sd_pull_out_info">SD Will Pull Out</string>
+    <string name="sd_pull_out_title">SD card safely remove</string>
+    <string name="sd_pull_out_toast">Detection of SD card remove.</string>
+    <string name="sd_remove">REMOVE</string>
+    <string name="sd_use_info">SD card movie play time about 50 minutes</string>
+    <string name="sdcard">SD CARD</string>
+    <string name="secured">secured</string>
+    <string name="setting_init">the initialization of settings</string>
+    <string name="setting_init_info">All settings of the device will be initialized. Are you sure you want to initialize the setting?</string>
+    <string name="setting_reset">Setting Reset</string>
+    <string name="setting_reset_cancel">Cancel</string>
+    <string name="setting_reset_ok">OK</string>
+    <string name="setting_return">Return the state of the factory</string>
+    <string name="setting_return_info">the device will go in the same state as at the time of purchase. Are you sure you want to return the state of the factory?</string>
+    <string name="settings">setting</string>
+    <string name="up">상</string>
+    <string name="volume">volume</string>
+    <string name="volume_value">vol.%d</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="wifi_need_open">please open wifi</string>
+    <string name="wifi_scan_null">no useable wifi</string>
+    <style name="ContentText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dip</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+ <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+ <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+ <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+ <!-- 无标题 -->
+        <item name="android:windowBackground">@color/transparent</item>
+ <!-- 背景透明 -->
+        <item name="android:background">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+ <!-- 模糊 -->
+    </style>
+    <style name="item_txt">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:focusable">true</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="main_side">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginTop">40dp</item>
+        <item name="android:layout_marginBottom">40dp</item>
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="android:layout_weight">4</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/theme_menu_background</item>
+    </style>
+    <style name="side_btn_txt">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/theme_text</item>
+    </style>
+</resources>

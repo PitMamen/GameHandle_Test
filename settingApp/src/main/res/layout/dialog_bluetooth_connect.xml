@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent"
+    android:background="@color/item_gray_white">
+    
+    <LinearLayout android:layout_width="600dp"
+        android:layout_height="match_parent"
+	    android:orientation="vertical" >
+	    
+	    <TextView 
+	     	android:id="@+id/bluetooth_name"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="20dp"
+			android:layout_marginBottom="60dp"
+			android:gravity="center"
+			android:textSize="@dimen/title_text_size"
+			android:textColor="@color/textwhite"/> 
+    
+	    <LinearLayout android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center_horizontal"
+		    android:orientation="horizontal">
+		    
+		    <Button
+		        android:id="@+id/unpair_btn"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:gravity="center"
+		        android:textSize="@dimen/dialog_btn_size"
+		        android:textColor="@color/textwhite"
+		        android:text="@string/option_unpair"
+		        android:background="@drawable/btn_dialog"/>
+		    
+		    <Button
+		        android:id="@+id/connect_btn"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:gravity="center"
+		        android:textSize="@dimen/dialog_btn_size"
+		        android:textColor="@color/textwhite"
+		        android:background="@drawable/btn_dialog"/>
+		</LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="device_name_list">
+        <item>Model number</item>
+        <item>Device serial number</item>
+        <item>Total operation time</item>
+        <item>MAC</item>
+        <item>Android version</item>
+        <item>Softeware version</item>
+        <item>SKT agreement of utilization</item>
+        <item>copyright</item>
+        <item>Open license legal information</item>
+        <item>How to handle the personal information</item>
+    </string-array>
+
+    <string name="device_name">Device name</string>
+    <string name="change_device_name">Change device name</string>
+    
+    <string name="language_selection">Language selection</string>
+    <string name="keyboard_setting">Keyboard setting</string>
+    <string-array name="languages">
+        <item>Korean</item>
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Japenese</item>
+    </string-array>
+
+</resources>

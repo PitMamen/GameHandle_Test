@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/theme_background" >
+    
+    <com.app.settingApp.view.ControlView 
+        android:id="@+id/control_view"
+        android:layout_width="0dp"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+        android:focusable="true">
+    </com.app.settingApp.view.ControlView>
+    
+    <LinearLayout style="@style/main_side">
+	    
+	    <RelativeLayout 
+			android:id="@+id/brightness_control_layout"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/item_selector_bg"> 
+			
+	        <ImageView 
+		        android:id="@+id/brightness_icon"	
+		        android:layout_width="wrap_content"
+		  		android:layout_height="wrap_content"
+			   	android:layout_centerVertical="true"
+			   	android:background="@drawable/setting_title_ic_brightness"/>
+	        
+	        <TextView
+	            android:id="@+id/brightness_name"
+		        style="@style/item_txt"
+		        android:text="@string/brightness"
+		       	android:layout_width="wrap_content"
+		       	android:layout_toRightOf="@id/brightness_icon"
+		        android:duplicateParentState="true"/>             
+			
+			<CheckBox android:id="@+id/brightness_switch" 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_centerVertical="true"
+	            android:layout_alignParentRight="true"
+	            android:layout_marginRight="15dp"
+	            android:focusable="false"
+	            android:duplicateParentState="true"
+	            android:button="@drawable/battery_selector"/>
+				
+		</RelativeLayout>
+		
+		<LinearLayout 
+		    android:id="@+id/brightness_layout"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical"
+		    android:gravity="center_horizontal"
+		    android:focusable="true"
+		    android:paddingBottom="70dp"
+		    android:background="@drawable/item_selector_bg">
+		
+	        <TextView android:id="@+id/txt_brightness" 
+	            android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:textColor="@color/theme_text"
+			    android:focusable="false"
+			    android:duplicateParentState="true"
+			    android:textSize="@dimen/value_size"/>
+	        
+	        <LinearLayout android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_marginTop="15dp"
+			    android:layout_gravity="center_horizontal"
+			    android:duplicateParentState="true"
+			    android:orientation="horizontal">
+	            
+	            <Button android:id="@+id/img_drak"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:duplicateParentState="true"
+	                android:focusable="false"
+	                android:layout_gravity="center_vertical"
+	                android:background="@drawable/drak"/>
+	            
+	            <SeekBar android:id="@+id/seekbar_brightness"
+	                android:layout_width="400dp"
+	                android:layout_height="wrap_content"
+	                android:focusable="false"
+	                android:duplicateParentState="true"
+	                android:layout_gravity="center_vertical"
+	                android:progressDrawable="@drawable/seekbar_bg"
+	                android:thumb="@drawable/seekbar_thumb"/>
+	            
+	            <Button android:id="@+id/img_bright"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_marginLeft="15dp"
+	                android:focusable="false"
+	                android:layout_gravity="center_vertical"
+	                android:duplicateParentState="true"
+	                android:background="@drawable/bright"/>
+	    	</LinearLayout>
+        </LinearLayout>
+        
+    </LinearLayout>
+    
+</LinearLayout>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="settings">setting</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="bluetooth">bluetooth</string>
+    <string name="brightness">brightness</string>
+    <string name="calibration">calibration</string>
+    <string name="color_temperature">ColorTemperature</string>
+    <string name="battery">battery %</string>
+    <string name="sdcard">SD CARD</string>
+    <string name="volume">volume</string>
+    <string name="language">language</string>
+    <string name="firmware">firmware</string>
+    <string name="deviceinfo">deviceinfo</string>
+    <string name="initialization">initialization</string>
+    <string name="up">상</string>
+    <string name="ok">진입</string>
+    <string name="down">하</string>
+    <string name="back">뒤로</string>
+    <string name="secured">secured</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="connect">Connect</string>
+    <string name="connected">已连接</string>
+    <string name="paired">已匹配</string>
+    <string name="disconnecting">正在断开连接...</string>
+    <string name="connecting">正在连接...</string>
+    <string name="none">None</string>
+    <string name="pairing">正在匹配...</string>
+    <string name="delete_wifi">确定删除该热点？</string>
+    <string name="delete">忘记</string>
+    <string name="volume_value">vol.%d</string>
+    <string name="option_unpair">Unpair</string>
+    <string name="option_connect">Connect</string>
+    <string name="option_disconnect">Disconnect</string>
+
+    <string name="wifi_scan_null">no useable wifi</string>
+    <string name="wifi_need_open">please open wifi</string>
+    
+    <string name="bluetooth_scan_null">no useable bluetooth</string>
+    <string name="bluetooth_need_open">please open bluetooth</string>
+    
+    <string-array name="device_name_list">
+        <item>Model number</item>
+        <item>Device serial number</item>
+        <item>Total operation time</item>
+        <item>MAC</item>
+        <item>Android version</item>
+        <item>Softeware version</item>
+        <item>SKT agreement of utilization</item>
+        <item>copyright</item>
+        <item>Open license legal information</item>
+        <item>How to handle the personal information</item>
+    </string-array>
+
+    <string name="device_name">Device name</string>
+    <string name="change_device_name">Change device name</string>
+    <string name="dialog_device_cancel">Cancel</string>
+    <string name="dialog_device_ok">OK</string>
+    
+    <string name="language_selection">Language selection</string>
+    <string name="keyboard_setting">Keyboard setting</string>
+    <string-array name="languages">
+        <item>Korean</item>
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Japenese</item>
+    </string-array>
+
+    <string name="setting_reset">Setting Reset</string>
+    <string name="setting_init">the initialization of settings</string>
+    <string name="setting_init_info">All settings of the device will be initialized. Are you sure you want to initialize the setting?</string>
+    <string name="setting_return">Return the state of the factory</string>
+    <string name="setting_return_info">the device will go in the same state as at the time of purchase. Are you sure you want to return the state of the factory?</string>
+    <string name="setting_reset_cancel">Cancel</string>
+    <string name="setting_reset_ok">OK</string>
+    
+    <string name="sd_pull_out_title">SD card safely remove</string>
+    <string name="sd_insert_title">SD Insert</string>
+	<string name="sd_format_title">SD Format</string>
+	<string name="sd_use_info">SD card movie play time about 50 minutes</string>
+	<string name="sd_pull_out_info">SD Will Pull Out</string>
+	<string name="sd_insert_info">SD Will Insert</string>
+	<string name="sd_format_info">SD Will Format</string>
+	<string name="sd_pull_out_toast">Detection of SD card remove.</string>
+	<string name="sd_insert_toast">Detection of SD card insertion.</string>
+	<string name="sd_format_toast">Detection of SD card format.</string>
+	<string name="sd_cancel">CANCEL</string>
+	<string name="sd_remove">REMOVE</string>
+	<string name="sd_format">FORMAT</string>
+	<string name="sd_insert">INSERT</string>
+	
+	<string name="firmware_upgrade">Firmware update</string>
+	<string name="firmware_new">NEW</string>
+	<string name="firmware_dialog_info">Do you want to update? The power is automatically reset after the update is complete. (* Power of the equipment being updated There is a possibility that the abnormal to the equipment being off occur. Please update after the power of the connection.)</string>
+	
+	<string name="progress_title">Waitting...</string>
+	
+	<string name="battery_title">Battery \n%d%</string> 
+	<string name="battery_item">Battery saving mode</string>
+	<string name="battery_info">On the battery saving mode, If the smartbeam has no adapter power or has the long idle times, It enters into the standby mode.  </string>
+	<string name="progress_txt1">SD card video playback</string>
+	<string name="progress_txt2">playback of network connection</string>
+	
+	<string name="auto_adjust">Auto Display Adjustment</string>
+	<string name="key_control">Keystone display control</string>
+	
+	<string-array name="color_temperatures">
+        <item>Cinema mode</item>
+        <item>Concert mode</item>
+        <item>Sports mode</item>
+        <item>Musium mode</item>
+    </string-array>
+	
+</resources>

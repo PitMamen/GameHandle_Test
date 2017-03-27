@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android_custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:background="@color/theme_background">
+    
+    <com.app.settingApp.view.ControlView 
+        android:id="@+id/control_view"
+        android:layout_width="0dp"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+        android:focusable="false">
+    </com.app.settingApp.view.ControlView>
+	
+	<LinearLayout style="@style/main_side">
+	    
+	    <RelativeLayout android:id="@+id/chose_battery_mode"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:clickable="true"
+	        android:focusable="true"
+	        android:descendantFocusability="blocksDescendants"
+	        android:background="@drawable/item_selector_bg">
+	        
+	        <ImageView android:id="@+id/ic_battery" 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="15dp"
+	            android:layout_centerVertical="true"
+	            android:src="@drawable/setting_title_ic_battery"/>
+	        
+	        <TextView 
+		        style="@style/item_txt"
+		        android:layout_toRightOf="@id/ic_battery"
+		        android:text="@string/battery_item"
+		        android:duplicateParentState="true"/>
+	        
+	        <CheckBox android:id="@+id/battery_select" 
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_centerVertical="true"
+	            android:layout_alignParentRight="true"
+	            android:layout_marginRight="15dp"
+	            android:duplicateParentState="true"
+	            android:button="@drawable/battery_selector"/>
+	        
+	    </RelativeLayout>
+	    
+	    <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_margin="25dp"
+	        android:text="@string/battery_info"
+	        android:textSize="22sp"
+	        android:textColor="#fff"/>
+	    
+	    <LinearLayout android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="20dp"
+	        android:layout_gravity="center_horizontal"
+	        android:orientation="horizontal">
+	        
+	        <FrameLayout android:layout_width="@dimen/battery_radius"
+		        android:layout_height="@dimen/battery_radius">
+	            
+	            <com.app.settingApp.battery.RoundProgressBar 
+		            android:id="@+id/roundProgressBar1"
+			        android:layout_width="@dimen/battery_radius"
+			        android:layout_height="@dimen/battery_radius"
+			        android_custom:roundWidth="10dip"
+			        android_custom:roundProgressColor="@color/item_gray"
+			        android:background="@drawable/setting_battery_progress1"
+			        android_custom:textIsDisplayable="false" />
+	            
+	            <TextView android:id="@+id/pragress_txt1"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:text="@string/progress_txt1"
+	                android:textColor="#fff"
+	                android:textSize="20sp"
+	                android:padding="10dp"
+	                android:gravity="center"/>
+	        
+	        </FrameLayout>
+	        
+	        <FrameLayout android:layout_width="@dimen/battery_radius"
+		        android:layout_height="@dimen/battery_radius"
+		        android:layout_marginLeft="30dp">
+	            
+	            <com.app.settingApp.battery.RoundProgressBar 
+		            android:id="@+id/roundProgressBar2"
+			        android:layout_width="@dimen/battery_radius"
+			        android:layout_height="@dimen/battery_radius"
+			        android_custom:roundWidth="10dip"
+			        android_custom:roundProgressColor="@color/item_gray"
+			        android:background="@drawable/setting_battery_progress2"
+			        android_custom:textIsDisplayable="false" />
+	        
+	            <TextView android:id="@+id/pragress_txt2"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:text="@string/progress_txt2"
+	                android:textColor="#fff"
+	                android:textSize="20sp"
+	                android:padding="10dp"
+	                android:gravity="center"/>
+	        </FrameLayout>
+	        
+	    </LinearLayout>
+	    
+	</LinearLayout>
+
+</LinearLayout>

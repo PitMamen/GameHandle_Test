@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_screen_reverse1_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_screen_reverse1_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_language_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_language_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_tv_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_tv_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_contents_bluetooth.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_contents_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_battery_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_battery_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_battery_progress1.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_battery_progress1.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_adjust_handle_d.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_adjust_handle_d.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_btn_on.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_btn_on.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_battery_progress2.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_battery_progress2.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi3.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi3.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_bar_available.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_bar_available.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_wifi_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_wifi_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_brightness_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_brightness_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_sdcard_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_sdcard_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_sound_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_sound_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_pc_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_pc_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\control_btn_volumedown_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\control_btn_volumedown_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_bar_etc.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_bar_etc.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bright.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\bright.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_language_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_language_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_upgrade_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_upgrade_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_brightness_handle_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_brightness_handle_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_color_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_color_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi2.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi2.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home_item_b.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\home_item_b.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi1.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi1.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi4.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi4.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_adjust_handle_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_adjust_handle_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_color_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_color_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_reset_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_reset_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_device_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_device_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi4.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi4.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_info_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_info_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi1.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi1.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_sound_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_sound_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_bar_apps.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_bar_apps.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_secured.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_secured.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_adjust_handle_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_adjust_handle_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_contents_bluetooth.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_contents_bluetooth.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_media_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_media_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_pui_back_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_pui_back_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_battery_progress1.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_battery_progress1.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_color_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_color_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_reset_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_reset_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_language_checkbox.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_language_checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_keboard_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_keboard_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_device_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_device_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\control_btn_volumeup_p.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\control_btn_volumeup_p.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_language_checkbox_s.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_language_checkbox_s.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_brightness_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_brightness_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_pui_arrow1_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_pui_arrow1_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_adjust_handle_d.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_adjust_handle_d.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_wifi_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_wifi_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_info_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_info_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_language_checkbox.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_language_checkbox.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_screen_rotate1_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_screen_rotate1_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_upgrade.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_upgrade.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_upgrade_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_upgrade_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\control_btn_volumeup_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\control_btn_volumeup_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_upgrade.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_upgrade.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_revision2_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\ic_revision2_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_battery_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_battery_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_revision2_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\ic_revision2_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_screen_reverse1_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_screen_reverse1_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_media_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_media_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_adjust_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_adjust_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_revision1_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\ic_revision1_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_brightness.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_keboard_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_keboard_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home_item_g.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\home_item_g.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_icon.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_btn_off.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_btn_off.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_circle1.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_circle1.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_contents_wifi.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_contents_wifi.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_adjust_handle_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_adjust_handle_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_keboard_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_keboard_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_bluetooth_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_bluetooth_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_pui_arrow1_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_pui_arrow1_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_battery_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_battery_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi2.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi2.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_circle3.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_circle3.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_wifi.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_wifi.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_revision1_p.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\ic_revision1_p.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_battery_progress2.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_battery_progress2.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_pui_enter_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_pui_enter_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_language_checkbox_s.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_language_checkbox_s.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\control_btn_volumedown_p.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\control_btn_volumedown_p.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_bar_apps.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_bar_apps.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\control_btn_volumedown_p.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\control_btn_volumedown_p.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_pui_enter_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_pui_enter_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_bar_videos.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_bar_videos.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\control_btn_volumedown_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\control_btn_volumedown_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_contents_wifi.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_contents_wifi.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_bluetooth.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_bluetooth.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_brightness.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_circle1.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_circle1.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_language.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_language.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home_item_b.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\home_item_b.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_device_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_device_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_wifi_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_wifi_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_device_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_device_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_screen_rotate1_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_screen_rotate1_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_pc_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_pc_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drak.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\drak.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_circle2.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_circle2.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_secured.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_secured.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drak.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\drak.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_wifi.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_wifi.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_bar_etc.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_bar_etc.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_bar_videos.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_bar_videos.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_sdcard_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_sdcard_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_revision1_p.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\ic_revision1_p.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_pui_back_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_pui_back_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_info_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_info_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_tv_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_tv_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\control_btn_volumeup_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\control_btn_volumeup_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_brightness_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_brightness_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_pui_arrow2_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_pui_arrow2_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home_item_g.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\home_item_g.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_adjust_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_adjust_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sound_handle.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sound_handle.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_screen_reverse2_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_screen_reverse2_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_bluetooth_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_bluetooth_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_color_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_color_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_adjust_handle_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_adjust_handle_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_upgrade_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_upgrade_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_screen_reverse2_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_screen_reverse2_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_language.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_language.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_revision2_p.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\ic_revision2_p.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_sdcard_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_sdcard_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_sound_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_sound_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_screen_rotate1_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_screen_rotate1_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_pui_arrow2_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_pui_arrow2_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_wifi_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_wifi_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_tv_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_tv_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi0.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi0.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_brightness_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_brightness_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_battery_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_battery_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_circle3.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_circle3.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_sdcard_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_sdcard_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sound_handle.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sound_handle.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_language_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_language_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_revision1_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\ic_revision1_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_reset_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_reset_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_bluetooth_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_bluetooth_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_circle2.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_circle2.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_reset_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_reset_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_adjust_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_adjust_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_media_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_media_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\control_btn_volumeup_p.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\control_btn_volumeup_p.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_btn_on.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_btn_on.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_pc_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_pc_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_sdcard_bar_available.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_sdcard_bar_available.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_revision2_p.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\ic_revision2_p.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_tv_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_tv_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_sound_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_sound_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_btn_off.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_btn_off.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_bluetooth_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_bluetooth_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_brightness_handle_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_brightness_handle_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_keboard_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_keboard_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi3.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi3.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_wifi_ic_wifi0.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_wifi_ic_wifi0.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_screen_rotate1_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_screen_rotate1_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_upgrade_n.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_upgrade_n.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_info_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_info_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_media_n.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_media_n.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bright.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\bright.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_blutooth_ic_pc_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_blutooth_ic_pc_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_language_f.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_language_f.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_ic_adjust_f.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_ic_adjust_f.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_icon.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_bluetooth.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_battery.png",
+        "source": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_battery.png"
+    },
+    {
+        "merged": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\setting_title_ic_battery.png",
+        "source": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\drawable-mdpi\\setting_title_ic_battery.png"
+    }
+]

@@ -1,0 +1,248 @@
+[
+    {
+        "outputFile": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 14,
+                        "endColumn": 19,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 53,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 53,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 44,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 44,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 49,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 49,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 51,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "C:\\Users\\john\\AndroidStudioProjects\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 51,
+                        "endOffset": 545
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\MYGTHandShank\\settingApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 14,
+                        "endColumn": 19,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 53,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 53,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 44,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 44,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 49,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 49,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 51,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "D:\\MYGTHandShank\\settingApp\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 51,
+                        "endOffset": 545
+                    }
+                }
+            }
+        ]
+    }
+]

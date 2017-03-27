@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" 
+    android:background="@color/theme_background">
+    
+	<com.app.settingApp.view.ControlView 
+	    android:id="@+id/control_view"
+        android:layout_width="0dp"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+        android:focusable="false">
+    </com.app.settingApp.view.ControlView>
+	
+	<LinearLayout style="@style/main_side">
+	    
+	    <RelativeLayout android:id="@+id/chose_language"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:clickable="true"
+	        android:focusable="true"
+	        android:background="@drawable/item_selector_bg">
+	        
+	        <ImageView android:id="@+id/img"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_centerVertical="true"
+	            android:layout_marginLeft="15dp"
+	            android:duplicateParentState="true"
+	            android:src="@drawable/language_img"/>
+	        
+	        <TextView 
+		        style="@style/item_txt"
+		        android:layout_width="wrap_content"
+		        android:layout_toRightOf="@id/img"
+		        android:duplicateParentState="true"
+		        android:layout_centerVertical="true"
+		        android:text="@string/language_selection"/>
+	        
+	        <TextView android:id="@+id/language"
+	            android:layout_height="wrap_content"
+		        android:layout_width="wrap_content"
+		        android:layout_alignParentRight="true"
+		        android:layout_centerVertical="true"
+		        android:textSize="22sp"
+		        android:duplicateParentState="true"
+		        android:paddingTop="10dp"
+		        android:paddingBottom="10dp"
+		        android:paddingLeft="30dp"
+		        android:paddingRight="30dp"
+		        android:layout_marginTop="30dp"
+		        android:layout_marginRight="30dp"
+		        android:textColor="#fff"
+		        android:background="@drawable/language_name_selector"/>
+	        
+	    </RelativeLayout>
+	    
+	    <TextView 
+	        style="@style/item_txt"
+	        android:text="@string/keyboard_setting"
+	        android:background="@drawable/item_selector_bg"/>
+	    
+	    <ListView android:id="@+id/list"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:divider="#3F474A"   
+	        android:listSelector="@color/transparent"
+			android:dividerHeight="2px"/>
+	    
+	</LinearLayout>
+    
+</LinearLayout>

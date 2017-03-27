@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/item_gray_white">
+    
+    <LinearLayout android:layout_width="600dp"
+	    android:layout_height="match_parent"
+	    android:orientation="vertical" >
+    
+		<TextView android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:textSize="30sp"
+		    android:textColor="#fff"
+		    android:layout_marginLeft="40dp"
+		    android:layout_marginTop="10dp"
+		    android:layout_marginBottom="10dp"
+		    android:text="@string/change_device_name"/>
+		
+		<EditText android:id="@+id/edit_name"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:background="@color/item_gray"
+		    android:singleLine="true"
+		    android:paddingLeft="5dp"
+		    android:textSize="30sp"
+		    android:layout_marginTop="60dp"
+		    android:layout_marginBottom="60dp"
+		    android:layout_marginLeft="40dp"
+		    android:layout_marginRight="40dp"/>
+		
+		<LinearLayout android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center_horizontal"
+		    android:orientation="horizontal">
+		    
+		    <Button android:id="@+id/cancel"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:textSize="30sp"
+		        android:background="@drawable/btn_dialog"
+		        android:textColor="#fff"
+		        android:text="@string/dialog_device_cancel"/>
+		    <Button android:id="@+id/ok"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="1"
+		        android:textSize="30sp"
+		        android:background="@drawable/btn_dialog"
+		        android:textColor="#fff"
+		        android:text="@string/dialog_device_ok"/>
+		</LinearLayout>
+    </LinearLayout>
+</LinearLayout>
