@@ -1,9 +1,12 @@
 package com.mygt.handshank.sample;
 
+import android.annotation.SuppressLint;
 import android.graphics.Point;
+import android.icu.text.DecimalFormat;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
+import android.support.annotation.MainThread;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -16,14 +19,15 @@ import com.daimajia.numberprogressbar.NumberProgressBar;
 
 public class UITestActivity extends AppCompatActivity implements IUITestView, View.OnClickListener, GameModel.OnChangeModelListener {
 
+    private static final int UPDATA_COUNT = 1;
     private final String TAG = getClass().getSimpleName();
 
-    private double starttime = 0.0;
-    private double endtime = 0.0;
-    private double recordtime = 0.0;
-    private double intervaltime = 0.0;
-    private double finaltime = 1000;
-    private int count = 0;
+    private double starttime = 0.0;      // 起始时间
+    private double endtime = 0.0;         //结束时间
+    private double recordtime = 0.0;        // 记录时间
+    private double intervaltime = 0.0;      //  间隔时间
+    private double finaltime = 1000;      //  最后的时间
+    private int count = 1;
     private int show = 0;
     public boolean flag = true;
 
@@ -41,7 +45,7 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
 
     GameModel mGameModel;
 
-    TextView infoKey1,infoKey2, infoX1, infoY1, infoX2, infoY2,infokeyinterval,infokeycount;
+    TextView infoKey1, infoKey2, infoX1, infoY1, infoX2, infoY2, infokeyinterval, infokeycount;
 
     int l_radius;
     int r_radius;
@@ -50,19 +54,8 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
     int l_offsetX, l_offsetY, r_offsetX, r_offsetY;
 
     boolean initRocker = false;
+    private int stoptime = 18;
 
-    Handler handler = new Handler(){
-        @Override
-        public void handleMessage(Message msg) {
-            if(msg.what==1){
-                Log.e("接收消息","111111");
-                infoKey1.setText("");
-            }else if(msg.what==2){
-                infokeycount.setText("1s总个数"+0+"个");
-            }
-            super.handleMessage(msg);
-        }
-    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -92,10 +85,10 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
         l2P = (NumberProgressBar) findViewById(R.id.l2_p);
         r2P = (NumberProgressBar) findViewById(R.id.r2_p);
 
-        infoKey2= (TextView) findViewById(R.id.info_key2);
-        infoKey1= (TextView) findViewById(R.id.info_key1);
-        infokeyinterval= (TextView) findViewById(R.id.info_key_interval);
-        infokeycount= (TextView) findViewById(R.id.info_key_count);
+        infoKey2 = (TextView) findViewById(R.id.info_key2);
+        infoKey1 = (TextView) findViewById(R.id.info_key1);
+        infokeyinterval = (TextView) findViewById(R.id.info_key_interval);
+        infokeycount = (TextView) findViewById(R.id.info_key_count);
         infoX1 = (TextView) findViewById(R.id.info_x1);
         infoY1 = (TextView) findViewById(R.id.info_y1);
         infoX2 = (TextView) findViewById(R.id.info_x2);
@@ -115,7 +108,7 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
 
         getWindow().findViewById(Window.ID_ANDROID_CONTENT).setBackgroundResource(R.mipmap.background);
 
-        Log.d(TAG,"thread:"+Thread.currentThread().getName()+",id:"+Thread.currentThread().getId());
+        Log.d(TAG, "thread:" + Thread.currentThread().getName() + ",id:" + Thread.currentThread().getId());
 
     }
 
@@ -142,19 +135,20 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
     }
 
     long genericTime;
+
     @Override
     public boolean dispatchKeyEvent(KeyEvent event) {
-        Log.d(TAG,"dispatchKeyEvent");
+        Log.d(TAG, "dispatchKeyEvent");
         int code = event.getKeyCode();
 
 
 //        KeyEvent.KEYCODE_BUTTON_X;
-        Log.d(TAG,"code:"+code);
+        Log.d(TAG, "code:" + code);
 
         int action = event.getAction();
         if (action == KeyEvent.ACTION_DOWN) {
             keyDown(code, event);
-        }else if (action == KeyEvent.ACTION_UP) {
+        } else if (action == KeyEvent.ACTION_UP) {
             keyUp(code, event);
         }
         return true;
@@ -179,7 +173,7 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
     }
 
     public void keyDown(int keyCode, KeyEvent event) {
-        infoKey2.setText("keyCode:"+keyCode);
+        infoKey2.setText("keyCode:" + keyCode);
 
         switch (keyCode) {
             case KeyEvent.KEYCODE_BUTTON_L1:
@@ -318,7 +312,7 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
 
     @Override
     public boolean onGenericMotionEvent(MotionEvent event) {
-        Log.d(TAG,"onGenericMotionEvent");
+        Log.d(TAG, "onGenericMotionEvent");
         switch (event.getActionMasked()) {
             case MotionEvent.ACTION_DOWN:
                 genericTime = System.nanoTime();
@@ -331,40 +325,40 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
                 genericTime = time2;
                 if (interval < 1000000000 && max < interval) {
                     max = interval;
-                    Log.d(TAG,"max1:"+max);
+                    Log.d(TAG, "max1:" + max);
                 }
-                Log.d(TAG,"interval:"+interval);
+                Log.d(TAG, "interval:" + interval);
                 break;
         }
         initRocker();
         float l2 = event.getAxisValue(MotionEvent.AXIS_LTRIGGER);
         float r2 = event.getAxisValue(MotionEvent.AXIS_RTRIGGER);
-        Log.d(TAG, "RIGGER l2:"+l2+",r2:"+r2);
+        Log.d(TAG, "RIGGER l2:" + l2 + ",r2:" + r2);
         float a_x = event.getAxisValue(MotionEvent.AXIS_X);
         float a_y = event.getAxisValue(MotionEvent.AXIS_Y);
-        Log.d(TAG,"lift a_x:"+a_x+",a_y:"+a_y);
-        infoX1.setText("x1:"+a_x);
-        infoY1.setText("y1:"+a_y);
+        Log.d(TAG, "lift a_x:" + a_x + ",a_y:" + a_y);
+        infoX1.setText("x1:" + a_x);
+        infoY1.setText("y1:" + a_y);
 //        Log.d(TAG, "l_radius:"+)
-        float l_x = (a_x) * l_radius+l_centerP.x;
-        float l_y = (a_y) * l_radius+l_centerP.y;
+        float l_x = (a_x) * l_radius + l_centerP.x;
+        float l_y = (a_y) * l_radius + l_centerP.y;
         leftR.moveRockerWithKey(l_x, l_y);
 
 //        右摇杆用
         float a_z = event.getAxisValue(MotionEvent.AXIS_Z);
         float a_rz = event.getAxisValue(MotionEvent.AXIS_RZ);
-        infoX2.setText("x2:"+a_z);
-        infoY2.setText("y2:"+a_rz);
-        Log.d(TAG,"right a_z:"+a_z+",a_rz:"+a_rz);
-        float r_x = (a_z) * r_radius+r_centerP.x;
-        float r_y = (a_rz) * r_radius+r_centerP.y;
+        infoX2.setText("x2:" + a_z);
+        infoY2.setText("y2:" + a_rz);
+        Log.d(TAG, "right a_z:" + a_z + ",a_rz:" + a_rz);
+        float r_x = (a_z) * r_radius + r_centerP.x;
+        float r_y = (a_rz) * r_radius + r_centerP.y;
         rightR.moveRockerWithKey(r_x, r_y);
 
         float x = event.getX();
         float y = event.getY();
-        Log.d(TAG,"getx:"+x+",y:"+y);
+        Log.d(TAG, "getx:" + x + ",y:" + y);
         int index = event.getActionIndex();
-        Log.d(TAG,"index:"+index);
+        Log.d(TAG, "index:" + index);
 
         return super.onGenericMotionEvent(event);
     }
@@ -401,101 +395,162 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
     }
 
     @Override
-    public void setDataInfo(boolean shortdata ,String shortdatas, String data) {
-                        flag = true;
-                        if(shortdata){
-                            infoKey1.setText(shortdatas);
-                        }else{
-                            new Thread(new Runnable() {
-                                @Override
-                                public void run() {
-                                    try {
-                                        Thread.sleep(500);
-                                    } catch (InterruptedException e) {
-                                        e.printStackTrace();
-                                    }
-                                    Log.e("睡眠了3000ms，，","发送消息。。。。。。。");
-                                    Message message = new Message();
-                                    message.what = 1;
-                                    handler.sendMessage(message);
-                                }
-                            }).start();
-                        }
-                        Log.e("测试c",""+System.currentTimeMillis());
-                        if(System.currentTimeMillis()<=recordtime){
-                            count++;
-                        }else{
-                            show = count;
-                            count=0;
-                            recordtime = System.currentTimeMillis()+1000;
-                        }
-                        infoKey2.setText(data);
-                        infokeycount.setText("1s总个数"+show+"个");
-                        intervaltime =  System.currentTimeMillis()-starttime;
-                        starttime = System.currentTimeMillis();
-                        Log.e("测试a",""+System.currentTimeMillis());
-                        Log.e("测试b",""+System.currentTimeMillis());
-                        if(intervaltime<finaltime){
-                            finaltime = intervaltime;
-                        }
-                        infokeyinterval.setText("最小间隔时间:"+finaltime+"ms");
-                        Log.e("测试间隔时间。",finaltime+"ms");
-
-                        endtime = System.currentTimeMillis();
-                        Log.i("测试d",""+endtime);
-                        new Thread(new Runnable() {
-                            @Override
-                            public void run() {
-                                Log.i("测试f",""+endtime);
-                                while(flag){
-                                    try {
-                                        Thread.sleep(800);
-                                    } catch (InterruptedException e) {
-                                        e.printStackTrace();
-                                    }
-                                    Log.i("测试。。",System.currentTimeMillis()+"..."+endtime);
-                                    if(System.currentTimeMillis()-endtime>=1000){
-                                        flag = false;
-                                        Message message = new Message();
-                                        message.what = 2;
-                        handler.sendMessage(message);
-                    }
+    public void setDataInfo(boolean shortdata, String shortdatas, final String data) {
+        flag = true;
+        if (shortdata) {
+            infoKey1.setText(shortdatas);
+        } else {
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    infoKey1.setText("");
                 }
+            });
+        }
+        if (System.currentTimeMillis() <= recordtime) {
+            starttime = System.currentTimeMillis();  // 接收数据前开始计时   ms
+            ++count;
+        } else {
+            show = count;
+            count = 0;
+            recordtime = System.currentTimeMillis() + 1000;
+//            Log.d("bibi", "接收数据结尾时间: "+recordtime);
+            Log.d("haha", "show==: " + show);
+        }
+        endtime = System.currentTimeMillis();
+        infoKey2.setText(data);
+        infokeycount.setText("个数：" + show + "个");
+        endtime = System.currentTimeMillis();
+        intervaltime = endtime - starttime + stoptime;
+        Log.d("haha", "时间间隔为==: " + intervaltime);
+        if (intervaltime < finaltime) {
+            infokeyinterval.setText("间隔时间:" + intervaltime + "ms");
+        }
 
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    Thread.sleep(1500);
+                    if (System.currentTimeMillis() - endtime > 1000) {
+                        flag = false;
+                        handle.obtainMessage(UPDATA_COUNT).sendToTarget();
+                    }
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
         }).start();
-        Log.i("测试e",""+endtime);
     }
 
+    //            @Override
+//    public void setDataInfo(boolean shortdata ,String shortdatas, String data) {
+//                        flag = true;
+//                        if(shortdata){
+//                            infoKey1.setText(shortdatas);
+//                        }else{
+//                            new Thread(new Runnable() {
+//                                @Override
+//                                public void run() {
+//                                    try {
+//                                        Thread.sleep(500);
+//                                    } catch (InterruptedException e) {
+//                                        e.printStackTrace();
+//                                    }
+//                                    Log.e("睡眠了3000ms，，","发送消息。。。。。。。");
+//                                    Message message = new Message();
+//                                    message.what = 1;
+//                                    handler.sendMessage(message);
+//                                }
+//                            }).start();
+//                        }
+//                        Log.e("测试c",""+System.currentTimeMillis());
+//                        if(System.currentTimeMillis()<=recordtime){
+//                            count++;
+//                        }else{
+//                            show = count;
+//                            count=0;
+//                            recordtime = System.currentTimeMillis()+1000;
+//                        }
+//                        infoKey2.setText(data);
+//                        infokeycount.setText("1s总个数"+show+"个");
+//                        intervaltime =  System.currentTimeMillis()-starttime;
+//                        starttime = System.currentTimeMillis();
+//                        if(intervaltime<finaltime){
+//                            finaltime = intervaltime;
+//                        }
+//                        infokeyinterval.setText("最小间隔时间:"+finaltime+"ms");
+//                        Log.e("测试间隔时间。",finaltime+"ms");
+//
+//                        endtime = System.currentTimeMillis();
+//                        Log.i("测试d",""+endtime);
+//                        new Thread(new Runnable() {
+//                            @Override
+//                            public void run() {
+//                                Log.i("测试f",""+endtime);
+//                                while(flag){
+//                                    try {
+//                                        Thread.sleep(800);
+//                                    } catch (InterruptedException e) {
+//                                        e.printStackTrace();
+//                                    }
+//                                    Log.i("测试。。",System.currentTimeMillis()+"..."+endtime);
+//                                    if(System.currentTimeMillis()-endtime>=1000){
+//                                        flag = false;
+//                                        Message message = new Message();
+//                                        message.what = 2;
+//                        handler.sendMessage(message);
+//                    }
+//                }
+//
+//            }
+//        }).start();
+//        Log.i("测试e",""+endtime);
+//    }
+
+    Handler handle = new Handler() {
+        @Override
+        public void handleMessage(Message msg) {
+            super.handleMessage(msg);
+            if (msg.what == UPDATA_COUNT) {
+                Log.d(TAG, "收到消息===: ");
+                infokeycount.setText("个数：" + 0 + "个");
+            }
+        }
+    };
+
     boolean isGameModel = false;
+
     @Override
     public void setChangeModel(byte data) {
 
     }
 
     float r_x;
+
     private void decodeKey11Byte(byte keycode) {
-        r_x = getRockerLocation(keycode, r_radius)+r_offsetX;
+        r_x = getRockerLocation(keycode, r_radius) + r_offsetX;
     }
 
     private void decodeKey13Byte(byte keycode) {
-        float y = getRockerLocation(keycode, r_radius)+r_offsetY;
+        float y = getRockerLocation(keycode, r_radius) + r_offsetY;
         rightR.moveRockerWithKey(r_x, y);
     }
 
     float l_x;
+
     private void decodeKey7Byte(byte keycode) {
         int progress = Constants.BYTE_MAX & keycode;
-        Log.d(TAG, "progress_x:"+progress);
-        l_x = getRockerLocation(keycode, l_radius)+l_offsetX;
-        Log.d(TAG, "l_x:"+l_x+",radius:"+l_radius);
+        Log.d(TAG, "progress_x:" + progress);
+        l_x = getRockerLocation(keycode, l_radius) + l_offsetX;
+        Log.d(TAG, "l_x:" + l_x + ",radius:" + l_radius);
     }
 
     private void decodeKey9Byte(byte keycode) {
         int progress = Constants.BYTE_MAX & keycode;
-        Log.d(TAG, "progress_y:"+progress);
-        float y = getRockerLocation(keycode, l_radius)+l_offsetY;
-        Log.d(TAG, "y:"+y+",radius:"+l_radius);
+        Log.d(TAG, "progress_y:" + progress);
+        float y = getRockerLocation(keycode, l_radius) + l_offsetY;
+        Log.d(TAG, "y:" + y + ",radius:" + l_radius);
         leftR.moveRockerWithKey(l_x, y);
     }
 
@@ -534,8 +589,8 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
 
     private void setSelectView(View[] views, byte keycode) {
         int mark;
-        for (int i=0; i < 8; i++) {
-            mark = keycode & 1<<i;
+        for (int i = 0; i < 8; i++) {
+            mark = keycode & 1 << i;
             if (views[i] == null) {
                 continue;
             }
@@ -559,7 +614,7 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
                 startTest = true;
                 if (mModelType != Constants.GAME_MODEL) {
                     mGameModel.dispatchEvent(Constants.GAME_MODEL);
-                }else {
+                } else {
                     changeTest();
                 }
                 break;
@@ -570,7 +625,7 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
                 }
                 if (mModelType != Constants.NORMAL_MODEL) {
                     mGameModel.dispatchEvent(Constants.NORMAL_MODEL);
-                }else {
+                } else {
                     mGameModel.dispatchEvent(Constants.GAME_MODEL);
                 }
                 break;
@@ -585,11 +640,11 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
 
         if (isTest) {
             infoKey2.setText("正在测试");
-        }else {
+        } else {
             infoKey2.setText("结束测试");
         }
 
-        for (int i=0; i<8; i++) {
+        for (int i = 0; i < 8; i++) {
             if (byte3Views[i] != null) {
                 byte3Views[i].setVisibility(View.VISIBLE);
             }
@@ -626,10 +681,10 @@ public class UITestActivity extends AppCompatActivity implements IUITestView, Vi
             if (startTest) {
                 startTest = false;
                 changeTest();
-            }else {
+            } else {
                 infoKey2.setText("游戏模式");
             }
-        }else if (modelType == Constants.NORMAL_MODEL) {
+        } else if (modelType == Constants.NORMAL_MODEL) {
             normalInfoX.setVisibility(View.VISIBLE);
             normalInfoY.setVisibility(View.VISIBLE);
             infoKey2.setText("普通模式");

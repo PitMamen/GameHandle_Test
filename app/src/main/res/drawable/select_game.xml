@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item android:state_focused="true" android:state_enabled="true" android:state_pressed="false"
-          android:drawable="@mipmap/game_model_p"/>
-    <item android:state_enabled="true" android:state_pressed="true"
-          android:drawable="@mipmap/game_model_p"/>
-    <item android:state_enabled="true" android:state_checked="true"
-          android:drawable="@mipmap/game_model_p"/>
-    <item android:state_enabled="true" android:state_selected="true"
-          android:drawable="@mipmap/game_model_p"/>
-    <item android:drawable="@mipmap/game_model_n" />
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/normal_p" android:state_enabled="true" android:state_focused="true"
+          android:state_pressed="false"/>
+    <item android:drawable="@mipmap/normal_p" android:state_enabled="true"
+          android:state_pressed="true"/>
+    <item android:drawable="@mipmap/normal_p" android:state_checked="true"
+          android:state_enabled="true"/>
+    <item android:drawable="@mipmap/normal_p" android:state_enabled="true"
+          android:state_selected="true"/>
+    <item android:drawable="@mipmap/normal_model1_n"/>
 </selector>
